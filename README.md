@@ -1,9 +1,12 @@
 # Students Database – PostgreSQL CRUD Application
+# Oumar Hassen
+# 101320909
+# Assignment 3, question 1 demo video
 
 A Python command-line application that connects to a PostgreSQL database and performs
 CRUD operations on a `students` table.
 
-**Demo video:** <PASTE YOUR VIDEO LINK HERE>
+**Demo video:** https://youtu.be/-t5Yv9dJ7Bw
 
 ## Project structure
 ```
